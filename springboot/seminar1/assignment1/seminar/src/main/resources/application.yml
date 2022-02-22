@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/seminar?serverTimezone=UTC
     username: waffle-spring
-    password: wafflestudio
+    password: WaffleStudio22^.^
   sql:
     init:
       mode: always
